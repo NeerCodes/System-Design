@@ -93,5 +93,3 @@ You'll find over 100 topics there! It's a fantastic resource for learning how to
 - Lazy Loading: Optimize resources – https://lnkd.in/dvcdY_RX
 
 
-### 📚Bonus -
-Grab LLD Notes Here – https://lnkd.in/g_nrFUda
