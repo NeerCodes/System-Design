@@ -1,71 +1,43 @@
 # System-Design
 
-## 30 Blogs to Learn 30 System Design Fundamentals:
+## 📚 System Design Concepts – Quick Links
 
-> 1. [APIs](https://lnkd.in/dsbwPZ6N)  
-> 2. [Webhooks](https://lnkd.in/geHxGX-7)  
-> 3. [REST vs GraphQL](https://lnkd.in/gM5VHKQS)  
-> 4. [API Gateway](https://lnkd.in/gtyXmvf4)  
-> 5. [Load Balancers](https://lnkd.in/dzM7VDKq)  
-> 6. [Load Balancing Algorithms](https://lnkd.in/gvxfwEUr)  
-> 7. [Proxy vs Reverse Proxy](https://lnkd.in/gMTtidBq)  
-> 8. [Scalability](https://lnkd.in/gPGhW-qK)  
-> 9. [Availability](https://lnkd.in/gQk2p4_6)  
-> 10. [SPOF](https://lnkd.in/gw_uHZWn)  
-> 11. [CAP Theorem](https://lnkd.in/g_tFqJJb)  
-> 12. [Database Types](https://lnkd.in/gDxtZVE2)  
-> 13. [SQL vs NoSQL](https://lnkd.in/gHyC9qWc)  
-> 14. [ACID Transactions](https://lnkd.in/dB3QHiMz)  
-> 15. [Database Indexes](https://lnkd.in/g_-bQWtA)  
-> 16. [Sharding vs. Partitioning](https://lnkd.in/dk2276Ve)  
-> 17. [Consistent Hashing](https://lnkd.in/gR9wFDpz)  
-> 18. [CDC](https://lnkd.in/gWhGwh9Z)  
-> 19. [Caching](https://lnkd.in/gBSeTstS)  
-> 20. [Caching Strategies](https://lnkd.in/dVk7nZ_Y)  
-> 21. [Cache Eviction Policies](https://lnkd.in/gQAEXEmq)  
-> 22. [CDN](https://lnkd.in/gaW4Vkpy)  
-> 23. [Rate Limiting Algorithms](https://lnkd.in/gYDxg8XY)  
-> 24. [Message Queues](https://lnkd.in/g-jnNGDC)  
-> 25. [Bloom Filters](https://lnkd.in/gfGjCrSZ)  
-> 26. [Idempotency](https://lnkd.in/gDB3AJij)  
-> 27. [Concurrency vs Parallelism](https://lnkd.in/gGZXhjBD)  
-> 28. [Stateful vs. Stateless Architecture](https://lnkd.in/gz_ccK-Y)  
-> 29. [Long Polling vs WebSockets](https://lnkd.in/d9xKD28K)  
-> 30. [Batch vs Stream Processing](https://lnkd.in/gKtj_qWh)
-
-
+> **1. 🔗 APIs:** [APIs Explained](https://lnkd.in/dsbwPZ6N)  
+> **2. 🔔 Webhooks:** [What are Webhooks?](https://lnkd.in/geHxGX-7)  
+> **3. ⚖️ REST vs GraphQL:** [Compare Architectures](https://lnkd.in/gM5VHKQS)  
+> **4. 🚪 API Gateway:** [Gateway Role in Microservices](https://lnkd.in/gtyXmvf4)  
+> **5. ⚙️ Load Balancers:** [Introduction](https://lnkd.in/dzM7VDKq)  
+> **6. 🔁 Load Balancing Algorithms:** [Techniques Overview](https://lnkd.in/gvxfwEUr)  
+> **7. 🔄 Proxy vs Reverse Proxy:** [Know the Difference](https://lnkd.in/gMTtidBq)  
+> **8. 📈 Scalability:** [Vertical vs Horizontal](https://lnkd.in/gPGhW-qK)  
+> **9. 🟢 Availability:** [Why It Matters](https://lnkd.in/gQk2p4_6)  
+> **10. ❗ SPOF (Single Point of Failure):** [What It Is](https://lnkd.in/gw_uHZWn)  
+> **11. ⚖️ CAP Theorem:** [Tradeoffs Explained](https://lnkd.in/g_tFqJJb)  
+> **12. 🗃️ Database Types:** [SQL, NoSQL, NewSQL](https://lnkd.in/gDxtZVE2)  
+> **13. 🆚 SQL vs NoSQL:** [Which One to Use?](https://lnkd.in/gHyC9qWc)  
+> **14. 🧪 ACID Transactions:** [Transaction Properties](https://lnkd.in/dB3QHiMz)  
+> **15. 🔍 Database Indexes:** [Performance Boosters](https://lnkd.in/g_-bQWtA)  
+> **16. 🔨 Sharding vs Partitioning:** [Data Distribution](https://lnkd.in/dk2276Ve)  
+> **17. 🔗 Consistent Hashing:** [Hashing for Load Balance](https://lnkd.in/gR9wFDpz)  
+> **18. 🔄 CDC (Change Data Capture):** [Real-time Sync](https://lnkd.in/gWhGwh9Z)  
+> **19. ⚡ Caching:** [Speed Up Your App](https://lnkd.in/gBSeTstS)  
+> **20. 🧠 Caching Strategies:** [Techniques Guide](https://lnkd.in/dVk7nZ_Y)  
+> **21. 🗑️ Cache Eviction Policies:** [LRU, LFU, FIFO](https://lnkd.in/gQAEXEmq)  
+> **22. 🌍 CDN (Content Delivery Network):** [Global Distribution](https://lnkd.in/gaW4Vkpy)  
+> **23. 🚦 Rate Limiting Algorithms:** [Prevent Abuse](https://lnkd.in/gYDxg8XY)  
+> **24. 📬 Message Queues:** [Asynchronous Communication](https://lnkd.in/g-jnNGDC)  
+> **25. 🌸 Bloom Filters:** [Probabilistic Data Structures](https://lnkd.in/gfGjCrSZ)  
+> **26. 🔁 Idempotency:** [Ensure Safe Retries](https://lnkd.in/gDB3AJij)  
+> **27. ⏱️ Concurrency vs Parallelism:** [Core Differences](https://lnkd.in/gGZXhjBD)  
+> **28. 🧠 Stateful vs Stateless:** [Architecture Models](https://lnkd.in/gz_ccK-Y)  
+> **29. 📡 Long Polling vs WebSockets:** [Real-time Communication](https://lnkd.in/d9xKD28K)  
+> **30. 🔄 Batch vs Stream Processing:** [Processing Models](https://lnkd.in/gKtj_qWh)
 
 
+## GITHUB REPO to follow: 
+> 1. https://github.com/ashishps1/awesome-low-level-design
 
-𝟭. 𝗦𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆: https://lnkd.in/dD-GZpVq
-
-𝟮. 𝗟𝗮𝘁𝗲𝗻𝗰𝘆 𝘃𝘀 𝗧𝗵𝗿𝗼𝘂𝗴𝗵𝗽𝘂𝘁: https://lnkd.in/dscK9g3E
-
-𝟯. 𝗖𝗔𝗣 𝗧𝗵𝗲𝗼𝗿𝗲𝗺: https://lnkd.in/dFpgDSnY
-
-𝟰. 𝗔𝗖𝗜𝗗 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀: https://lnkd.in/dkkmMu_D
-
-𝟱. 𝗥𝗮𝘁𝗲 𝗟𝗶𝗺𝗶𝘁𝗶𝗻𝗴: https://lnkd.in/dY9NqRG9
-
-𝟲. 𝗔𝗣𝗜 𝗗𝗲𝘀𝗶𝗴𝗻: https://lnkd.in/dTgxGa5i
-
-𝟳. 𝗦𝘁𝗿𝗼𝗻𝗴 𝘃𝘀 𝗘𝘃𝗲𝗻𝘁𝘂𝗮𝗹 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆: https://lnkd.in/dQDwa7TQ
-
-𝟴. 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗧𝗿𝗮𝗰𝗶𝗻𝗴: https://lnkd.in/dA-3swq2
-
-𝟵. 𝗦𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝘃𝘀. 𝗮𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: https://lnkd.in/dx2nFDgR
-
-𝟭𝟬. 𝗕𝗮𝘁𝗰𝗵 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝘃𝘀 𝗦𝘁𝗿𝗲𝗮𝗺 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴: https://lnkd.in/dqGFQppV
-
-𝟭𝟭. 𝗙𝗮𝘂𝗹𝘁 𝗧𝗼𝗹𝗲𝗿𝗮𝗻𝗰𝗲: https://lnkd.in/dzKWh4ju
-
-GITHUB REPO to follow: 
-1. https://github.com/ashishps1/awesome-low-level-design
-2. https://lnkd.in/eWcNwskN
-
-Check out this link: https://lnkd.in/d8Vag9kD
-You'll find over 100 topics there! It's a fantastic resource for learning how to make robust systems.
-
+> 2. https://lnkd.in/eWcNwskN
 
 
 ## 🚀 Low Level Design (LLD) Made Easy!
